@@ -3,3 +3,5 @@
 /create_face_model/mqodata/landmark3d/*
 /create_face_model/mqodata/model/*
 /create_face_model/mqodata/output/*
+/render_face_model/
+/prior_research/

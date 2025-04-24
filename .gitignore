@@ -1,1 +1,5 @@
+/create_face_model/mqodata/mesh/*
+/create_face_model/mqodata/landmark/*
+/create_face_model/mqodata/landmark3d/*
 /create_face_model/mqodata/model/*
+/create_face_model/mqodata/output/*

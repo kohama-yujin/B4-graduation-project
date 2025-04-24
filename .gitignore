@@ -1,3 +1,7 @@
+/create_face_model/__pycache__
+/create_face_model/opencv
+/create_face_model/opencv_contrib
+/create_face_model/mqoloader/__pycache__
 /create_face_model/mqodata/mesh/*
 /create_face_model/mqodata/landmark/*
 /create_face_model/mqodata/landmark3d/*
